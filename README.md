@@ -1,4 +1,4 @@
-### Hi there 👋
+### Merhaba 👋
 
 Ben Talip Salihoğlu, Bursa'da yaşıyorum. Uludağ Üniversitesi Bilgisayar Mühendisliği 3. Sınıf öğrencisiyim. Genellikle Back-End alanında projeler yapıyorum. Hackerrank gibi sitelerde Algoritma soruları çözmekten keyif alıyorum.
 
